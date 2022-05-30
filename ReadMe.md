@@ -18,20 +18,20 @@
 - [3D Modeling](https://www.youtube.com/watch?v=LXcLnayEr_s)
 <div align="center"><img src="/Images/Houdini.png"></div>  
 
+
 ## <p align="center">Hier sind noch ein Paar Projekte and denen ich selbst gearbeitet habe</p> 
 
-<div align="center"><img src="/Images/Apple Juice.png"></div>  
+<div align="center"><img src="/Images/Apple Juice.png"></div> 
+<div align="center"><img src="/Images/Grape Juice.png"></div>  
+<div align="center"><img src="/Images/Orange Juice.png"></div>  
+<div align="center"><img src="/Images/Juice.png"></div>  
+<div align="center"><img src="/Images/Mango Juice.png"></div>  
 <div align="center"><img src="/Images/Canned Mango Juice.png"></div>  
 <div align="center"><img src="/Images/Coffee Webpage.png"></div>  
-<div align="center"><img src="/Images/Desserts.png"></div>  
-<div align="center"><img src="/Images/Food.png"></div>  
-<div align="center"><img src="/Images/Grape Juice.png"></div>  
-<div align="center"><img src="/Images/Juice.png"></div>  
+<div align="center"><img src="/Images/Desserts.png"><img src="/Images/Food.png"></div> 
 <div align="center"><img src="/Images/LOGIN.png"></div>  
 <div align="center"><img src="/Images/MAIN PAGE.png"></div>  
 <div align="center"><img src="/Images/Main.png"></div>  
-<div align="center"><img src="/Images/Mango Juice.png"></div>  
-<div align="center"><img src="/Images/Orange Juice.png"></div>  
 <div align="center"><img src="/Images/Start.png"></div>  
  
 

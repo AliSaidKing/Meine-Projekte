@@ -4,7 +4,7 @@
 
 - Instant Messenger was ein Projekt in dem Fach **Verteilte Systeme** im 5 Semester.
 - [Instant Messenger](https://www.figma.com/file/HYJUGKTXRMZF7BgOI1Mflw/Instant-Messenger?node-id=0%3A1)
-<div align="center"><img src="/Images/Main Screen Chat.png"></div>
+<div align="center"><img src="/Images/Main Screen Chats.png"></div>
 
 
 
@@ -33,5 +33,5 @@
 <div align="center"><img src="/Images/Mango Juice.png"></div>  
 <div align="center"><img src="/Images/Orange Juice.png"></div>  
 <div align="center"><img src="/Images/Start.png"></div>  
-
+ 
 

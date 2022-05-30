@@ -14,7 +14,7 @@
 - [Internet Technologien](https://htw-trip.herokuapp.com/)
 <div align="center"><img src="/Images/HTW Trip.png"></div>  
 
-- Im 5 Semester habe ich auch als Projekt 3D Modeling genommen wo wir das hier mit Houdini erstellt haben. 
+- Im 5 Semester habe ich auch als Projekt 3D Modeling genommen wo wir das hier mit Houdini erstellt haben. Meine Aufgabe war die erstellung von dem Bäumen.
 - [3D Modeling](https://www.youtube.com/watch?v=LXcLnayEr_s)
 <div align="center"><img src="/Images/Houdini.png"></div>  
 <div align="center"><img src="/Images/lowpoly.png"></div>  

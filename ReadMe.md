@@ -35,14 +35,6 @@
 <div align="center"><img src="/Images/Start.png"></div>  
 <div align="center"><img src="/Images/Main.png"></div>  
 
- ## <p align="center">Womit ich in der jetzigen Zeit Arbeite</p> 
- - Jetzt hört man überall über NFTs. Ich habe dann natürlich mich damit erkündigt und Erstelle jetzt auch selbst NFTs. Hiermit bekomme ich auch richtig gute Erfahrung wie man mit Figma umgeht. Hier sind ein paar von denen die schon online sind:
-<div align="center"><img src="/Images/1.png"></div> 
-<div align="center"><img src="/Images/2.png"></div>  
-<div align="center"><img src="/Images/3.png"></div>  
-<div align="center"><img src="/Images/4.png"></div>  
-<div align="center"><img src="/Images/5.png"></div>  
-<div align="center"><img src="/Images/6.png"></div>   
 
 
 

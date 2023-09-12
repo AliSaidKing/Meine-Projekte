@@ -1,26 +1,26 @@
-<h1 align="center">Hallo. Hier sind ein paar von meinen Projekten.</h1>
+<h1 align="center">Hello. Here are some of my projects.</h1>
 
-## <p align="center">Meine Projekte mit Links</p> 
+## <p align="center">My Projects with Links</p> 
 
-- Instant Messenger was ein Projekt in dem Fach **Verteilte Systeme** im 5 Semester.
+- Instant Messenger was a project in the course **Distributed Systems** in the 5th semester.
 - [Instant Messenger](https://www.figma.com/file/HYJUGKTXRMZF7BgOI1Mflw/Instant-Messenger?node-id=0%3A1)
 <div align="center"><img src="/Images/Main Screen Chats.png"></div>
 
-- Smart Light Table was ein Projekt in dem Fach **Human Computer Interaction** im 5 Semester.
+- Smart Light Table was a project in the course **Human Computer Interaction** in the 5th semester.
 - [Smart Light Table](https://www.figma.com/file/lj0sg6EmXQDYUKtMch06Sq/Smart-Light-Table?node-id=0%3A1)
 <div align="center"><img src="/Images/Galaxy S21 Ultra.png"></div>  
 
-- Auch eine Website haben wir als Projekt gehabt. Wir haben uns entschieden so eine art von TripAdvisor zu erstellen. Die Website ist auch von uns Live gestellt und kann benutzt werden.
-- [Internet Technologien](https://htw-trip.herokuapp.com/)
+- We also had a website project. We decided to create a kind of TripAdvisor-like website. The website is also live and can be used.
+- [Internet Technologies](https://htw-trip.herokuapp.com/)
 <div align="center"><img src="/Images/HTW Trip.png"></div>  
 
-- Im 5 Semester habe ich auch als Projekt 3D Modeling genommen wo wir das hier mit Houdini erstellt haben. Meine Aufgabe war die erstellung von dem Bäumen.
+- In the 5th semester, I also took on a 3D modeling project where we created this with Houdini. My task was to create the trees.
 - [3D Modeling](https://www.youtube.com/watch?v=LXcLnayEr_s)
 <div align="center"><img src="/Images/Houdini.png"></div>  
 <div align="center"><img src="/Images/lowpoly.png"></div>  
 <div align="center"><img src="/Images/Bonsai Tree.png"></div>  
 
-## <p align="center">Hier sind noch ein Paar Projekte an denen ich selbst gearbeitet habe</p> 
+## <p align="center">Here are a few more projects I worked on personally</p> 
 
 <div align="center"><img src="/Images/Apple Juice.png"></div> 
 <div align="center"><img src="/Images/Grape Juice.png"></div>  
@@ -33,8 +33,4 @@
 <div align="center"><img src="/Images/LOGIN.png"></div>  
 <div align="center"><img src="/Images/MAIN PAGE.png"></div>  
 <div align="center"><img src="/Images/Start.png"></div>  
-<div align="center"><img src="/Images/Main.png"></div>  
-
-
-
-
+<div align="center"><img src="/Images/Main.png"></div>

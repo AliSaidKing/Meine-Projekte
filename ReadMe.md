@@ -22,9 +22,9 @@
 
 ## <p align="center">Here are more projects I worked on</p> 
 
-<div align="center"><img src="/construction.png"></div> 
-<div align="center"><img src="/sausage1.png"></div> 
-<div align="center"><img src="/sausage2.png"></div> 
+<div align="center"><img src="/Images/construction.png"></div> 
+<div align="center"><img src="/Images/sausage1.png"></div> 
+<div align="center"><img src="/Images/sausage2.png"></div> 
 <div align="center"><img src="/Images/Apple Juice.png"></div> 
 <div align="center"><img src="/Images/Grape Juice.png"></div>  
 <div align="center"><img src="/Images/Orange Juice.png"></div>  

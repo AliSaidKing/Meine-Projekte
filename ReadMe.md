@@ -21,7 +21,11 @@
 <div align="center"><img src="/Images/Bonsai Tree.png"></div>  
 
 ## <p align="center">Here are more projects I worked on</p> 
-
+<div align="center"><img src="/Images/coffee3.png"></div> 
+<div align="center"><img src="/Images/skybox.png"></div> 
+<div align="center"><img src="/Images/bunny.png"></div> 
+<div align="center"><img src="/Images/app.jpg"></div> 
+<div align="center"><img src="/Images/adventure.png"></div> 
 <div align="center"><img src="/Images/construction.png"></div> 
 <div align="center"><img src="/Images/sausage1.png"></div> 
 <div align="center"><img src="/Images/sausage2.png"></div> 

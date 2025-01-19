@@ -20,6 +20,10 @@
 <div align="center"><img src="/Images/lowpoly.png"></div>  
 <div align="center"><img src="/Images/Bonsai Tree.png"></div>  
 
+- My own coffee brand I designed.
+- [Coffee Cans](https://www.figma.com/design/JBQSWbFS8moQMACZ6FW209/My-Coffee-Brand?node-id=0-1&t=zDqbejLxQU5c8YG6-1)
+<div align="center"><img src="/Images/coffeecans.png"></div>  
+
 ## <p align="center">Here are more projects I worked on</p> 
 <div align="center"><img src="/Images/coffee3.png"></div> 
 <div align="center"><img src="/Images/skybox.png"></div> 

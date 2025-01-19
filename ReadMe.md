@@ -26,7 +26,14 @@
 - [Coffee Cans](https://www.figma.com/design/JBQSWbFS8moQMACZ6FW209/My-Coffee-Brand?node-id=0-1&t=zDqbejLxQU5c8YG6-1)
 https://www.figma.com/design/4gmlcqt3bS1bUd5fL81HV0/NFT-GLASS-CARD?node-id=0-1&t=lSkqPwxLs750ItJq-1
 
-<h3 align="center">Here are some more links to my Figma projects</h3>
+- Here are just some more projects
+- [Glass Card](https://www.figma.com/design/4gmlcqt3bS1bUd5fL81HV0/NFT-GLASS-CARD?node-id=0-1&t=lSkqPwxLs750ItJq-1)
+- [Funnel Page](https://www.figma.com/proto/wi9zt6JPojKSM1GquIuAmc/Untitled?page-id=0%3A1&node-id=16-3&starting-point-node-id=16%3A3&t=sXOvMbPmXLzdtpFh-1)
+- [Login Page](https://www.figma.com/proto/R7bL5aBV5I0yd9WIszgW3m/Untitled?page-id=0%3A1&node-id=2-6&t=T93v32v39EMEQedF-1)
+- [Glass Card simple](https://www.figma.com/design/KyFngBPUFWYVjwFZ8EjD5V/Glass-Card?node-id=0-1&t=LsEnZ0aCzigDnCG0-1)
+- [NFTs](https://www.figma.com/design/4d6P8X3l5v294cdzyME2Pk/NFT-Birds?node-id=0-1&t=74N6suCaoFA08O02-1)
+- [Ice Cream](https://www.figma.com/design/gC6XNatxawza90w38xrN6W/Untitled?node-id=0-1&t=MjmGFJeAuvpqRx6s-1)
+- [CBD Oils](https://www.figma.com/design/0xAMXA9U2rhQO14PLgCOC8/Untitled?node-id=0-1&t=f8WOo2egAbasAcgr-1)
 
 ## <p align="center">Here are more projects I worked on</p> 
 <div align="center"><img src="/Images/coffee3.png"></div> 
@@ -49,3 +56,13 @@ https://www.figma.com/design/4gmlcqt3bS1bUd5fL81HV0/NFT-GLASS-CARD?node-id=0-1&t
 <div align="center"><img src="/Images/MAIN PAGE.png"></div>  
 <div align="center"><img src="/Images/Start.png"></div>  
 <div align="center"><img src="/Images/Main.png"></div>
+
+## <p align="center">These are some websites I have worked on as a Web Developer/p> 
+- https://www.mook-group.de/ (Nur bearbeitet)
+- https://ariston-restaurant.de/ (WordPress Elementor)
+- http://mainkaicafe.de
+- https://cafe-ana-frankfurt.de
+- http://civiccentercafe.com
+- https://merakicafesd.com
+- https://www.hotel-am-schlossberg.de/
+- https://oceancafesd.com

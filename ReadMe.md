@@ -22,10 +22,11 @@
 
 - My own coffee brand I designed.
 - [Coffee Cans](https://www.figma.com/design/JBQSWbFS8moQMACZ6FW209/My-Coffee-Brand?node-id=0-1&t=zDqbejLxQU5c8YG6-1)
-<div align="center"><img src="/Images/coffeecans.png"></div>  
+<div align="center"><img src="/Images/coffeecans.png"></div> 
+- [Coffee Cans](https://www.figma.com/design/JBQSWbFS8moQMACZ6FW209/My-Coffee-Brand?node-id=0-1&t=zDqbejLxQU5c8YG6-1)
+https://www.figma.com/design/4gmlcqt3bS1bUd5fL81HV0/NFT-GLASS-CARD?node-id=0-1&t=lSkqPwxLs750ItJq-1
 
 <h3 align="center">Here are some more links to my Figma projects</h3>
-- [Funnel Page](https://www.figma.com/proto/wi9zt6JPojKSM1GquIuAmc/Untitled?page-id=0%3A1&node-id=16-3&starting-point-node-id=16%3A3&t=sXOvMbPmXLzdtpFh-1)
 
 ## <p align="center">Here are more projects I worked on</p> 
 <div align="center"><img src="/Images/coffee3.png"></div> 

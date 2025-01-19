@@ -55,7 +55,7 @@
 <div align="center"><img src="/Images/Start.png"></div>  
 <div align="center"><img src="/Images/Main.png"></div>
 
-## <p align="center">These are some websites I have worked on as a Web Developer/p> 
+## <p align="center">These are some websites I have worked on as a Web Developer </p> 
 - https://www.mook-group.de/ (Nur bearbeitet)
 - https://ariston-restaurant.de/ (WordPress Elementor)
 - http://mainkaicafe.de

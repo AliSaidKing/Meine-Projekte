@@ -23,10 +23,8 @@
 - My own coffee brand I designed.
 - [Coffee Cans](https://www.figma.com/design/JBQSWbFS8moQMACZ6FW209/My-Coffee-Brand?node-id=0-1&t=zDqbejLxQU5c8YG6-1)
 <div align="center"><img src="/Images/coffeecans.png"></div> 
-- [Coffee Cans](https://www.figma.com/design/JBQSWbFS8moQMACZ6FW209/My-Coffee-Brand?node-id=0-1&t=zDqbejLxQU5c8YG6-1)
-https://www.figma.com/design/4gmlcqt3bS1bUd5fL81HV0/NFT-GLASS-CARD?node-id=0-1&t=lSkqPwxLs750ItJq-1
 
-- Here are just some more projects
+- Here are just some more projects:
 - [Glass Card](https://www.figma.com/design/4gmlcqt3bS1bUd5fL81HV0/NFT-GLASS-CARD?node-id=0-1&t=lSkqPwxLs750ItJq-1)
 - [Funnel Page](https://www.figma.com/proto/wi9zt6JPojKSM1GquIuAmc/Untitled?page-id=0%3A1&node-id=16-3&starting-point-node-id=16%3A3&t=sXOvMbPmXLzdtpFh-1)
 - [Login Page](https://www.figma.com/proto/R7bL5aBV5I0yd9WIszgW3m/Untitled?page-id=0%3A1&node-id=2-6&t=T93v32v39EMEQedF-1)
